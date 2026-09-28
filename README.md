@@ -1,4 +1,4 @@
-## Hi there 🫡 🫡 , my name is Jake Atwood (he/him/his)
+## Hi 🫡 🫡 , my name is Jake Atwood (he/him/his)
 
 ### 🤯 About Me
 I'm a Sophomore Computer Engineering student at the University of Tennessee Knoxville 🍊. 
