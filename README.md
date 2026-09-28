@@ -1,7 +1,7 @@
-## Hi 🫡 🫡 , my name is Jake Atwood (he/him/his)
+## Hi 🫡, my name is Jake Atwood (he/him/his)
 
 ### 🤯 About Me
-I'm a Sophomore Computer Engineering student at the University of Tennessee Knoxville 🍊. 
+I'm a Sophomore Computer Engineering student at the University of Tennessee Knoxville. 
 Though I'm still early in my coding journey, I wanted to deepen my understanding beyond the classroom by working on projects I truly enjoy. As I continue to push myself to grow, my goal is for these passion projects to turn what I learn in class into practical skills for later. Recently, I've really loved working on microcontrollers and iOS development. In my free time, I love playing guitar, skateboarding, reading, and more!
 
 ---
@@ -25,7 +25,7 @@ Though I'm still early in my coding journey, I wanted to deepen my understanding
 
 ### ⚙️ Current Projects and Learning
 - 👷 I’m currently working on a simple iOS calorie tracker and wrapping up a "Naughty or Nice" machine for class!
-- 🌱 I’m currently learning: Python, Raspberry Pi, Mandarin Chinese 🇨🇳, and Spanish 🇪🇸.
+- 🌱 I’m currently learning: Python, Raspberry Pi, Mandarin, and Spanish.
 
 ---
 
